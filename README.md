@@ -10,13 +10,13 @@ https://docs.google.com/presentation/d/1XXQkzZEkEY8uza_TUaQlxtaU-texZnfJAkXYcupJ
 
 ## Colab notebooks with exercises
 
-1. **Exercise 1**: MNIST with fully connected network [[open]](https://colab.research.google.com/github/simecek/2022-09-12-deep-learning/blob/main/notebooks/01_MNIST_Dense_layers.ipynb)
+1. **Exercise 1**: MNIST with fully connected network [[open]](https://colab.research.google.com/github/simecek/2022-09-12-deep-learning/blob/main/01_MNIST_Dense_layers.ipynb)
 
-2. **Exercise 2**: Fine tuning CNN model to your own data [[open]](https://colab.research.google.com/github/simecek/2022-09-12-deep-learning/blob/main/notebooks/02_Fine_tuning_CNN_model_to_your_own_data.ipynb)
+2. **Exercise 2**: Fine tuning CNN model to your own data [[open]](https://colab.research.google.com/github/simecek/2022-09-12-deep-learning/blob/main/02_Fine_tuning_CNN_model_to_your_own_data.ipynb)
 
-3. **Exercise 3**: Genomic sequence classification with the pretrained dLM [[open]](https://colab.research.google.com/github/simecek/2022-09-12-deep-learning/blob/main/notebooks/03_Genomic_sequence_classification_with_pretrained_dLM.ipynb)
+3. **Exercise 3**: Genomic sequence classification with the pretrained dLM [[open]](https://colab.research.google.com/github/simecek/2022-09-12-deep-learning/blob/main/03_Genomic_sequence_classification_with_pretrained_dLM.ipynb)
 
-4. **Exercise 4**: Gradio demo [[open]](https://colab.research.google.com/github/simecek/2022-09-12-deep-learning/blob/main/notebooks/04_Gradio_app_and_HF_spaces.ipynb)
+4. **Exercise 4**: Gradio demo [[open]](https://colab.research.google.com/github/simecek/2022-09-12-deep-learning/blob/main/04_Gradio_app_and_HF_spaces.ipynb)
 
 ## Additional materials
 
